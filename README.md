@@ -1,5 +1,7 @@
 # python-Tkinter-student-managment-system
 
+# use python main.py 
+
 # it's a program to 
 
 signup student
