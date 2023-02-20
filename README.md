@@ -2,18 +2,18 @@
 
 # it's a program to 
 
-##signup student
+signup student
 
 
-##calculate their average score
+calculate their average score
 
 
-##plot the average 
+plot the average 
 
 
-##search the student
+search the student
 
 
-##changing student info
+changing student info
 
 
